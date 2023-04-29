@@ -1,5 +1,7 @@
-# maps_for_health_-preliminary_crime-
-In order to explore the opportunities explainable Deep Learning offers for social research, this repository aims at predicting society-related target - crime occurrence - based on the Street View Images (SVI).
+# Street-View-Imaging-To-Analyse-Factors-Contributing-To-Larceny-From-Vehicles
+In order to explore the opportunities explainable Deep Learning offers for social research, code in this repository aims at predicting society-related target - crime occurrence - based on the Street View Images (SVI). The code uses publicly available datasets and is a preliminary step for the research on the relations between mental health and environment in the Dutch context that I conduct for my thesis. 
+
+First, the 
 
 ![image](https://user-images.githubusercontent.com/78618639/232754534-1ffcee10-8cef-4b03-948c-f9c49ca4fefe.png)
 
