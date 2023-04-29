@@ -9,3 +9,11 @@ In order to explore the opportunities explainable Deep Learning offers for socia
 
 ![image](https://user-images.githubusercontent.com/78618639/232755120-484ddcc5-7986-4222-9389-fe32bc78f6fc.png)
 
+![image](https://user-images.githubusercontent.com/78618639/235293660-74595f7b-54c0-41c8-8ee1-12affbe52702.png)
+
+![image](https://user-images.githubusercontent.com/78618639/235293713-2c35fcc8-0d2b-4ad2-8eff-b97c0616920a.png)
+
+![image](https://user-images.githubusercontent.com/78618639/235293730-e56880a1-bd2d-4807-8d2f-bda6326fd815.png)
+
+![image](https://user-images.githubusercontent.com/78618639/235293767-1babba4b-186c-4450-8566-ad57d5b45bf5.png)
+
