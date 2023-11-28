@@ -1,4 +1,4 @@
-# Street-View-Imaging-To-Analyse-Factors-Contributing-To-Larceny-From-Vehicles
+# Street View Imaging To Analyse Factors Contributing To Larceny From Vehicles
 In order to explore the opportunities explainable Deep Learning offers for social research, code in this repository aims at predicting socially relevant target - crime occurrence - based on the Street View Images (SVI). The code uses publicly available datasets and is a preliminary step for the research on the relations between mental health and environment in the Dutch context that I conduct for my thesis. My thesis supervisor is dr. Giacomo Spigler, and his advice and insight influenced the work greatly, however, he shouldn't be held responsible for any inaccuracies in this repository as my thesis project is not finished yet, not graded by dr. Spigler and also goes beyond the scope of this repository.
 
 ![image](https://user-images.githubusercontent.com/78618639/232754881-058124e8-c86d-4101-9e9a-6bd5192e02ea.png)
